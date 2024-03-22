@@ -3,6 +3,7 @@
 
 // This file needs to be included first for all MSDFgen sources
 
+#define MSDFGEN_PUBLIC
 #ifndef MSDFGEN_PUBLIC
 #include <msdfgen/msdfgen-config.h>
 #endif
